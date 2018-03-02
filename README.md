@@ -30,7 +30,7 @@ multiplyOperation(10, 2);
 divideOperation(20, 4);
 ```
 
-[![01](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-5.png)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-5.png)
+[![01](https://github.com/microsoft-dx/delegates-workshop/blob/master/Images/01-5.png?raw=true)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-5.png)
 
 ## Multiple delegates
 
@@ -47,7 +47,7 @@ mathOperations += new ExecuteOperation(DivideOperation);
 mathOperations(40, 5);
 ```
 
-[![01](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-6.png)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-6.png)
+[![01](https://github.com/microsoft-dx/delegates-workshop/blob/master/Images/01-6.png?raw=true)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-6.png)
 
 ## Anonymous methods
 
@@ -84,7 +84,7 @@ multiplyOperation(10, 2);
 divideOperation(20, 4);
 ```
 
-[![01](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-7.png)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-7.png)
+[![01](https://github.com/microsoft-dx/delegates-workshop/blob/master/Images/01-7.png?raw=true)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-7.png)
 
 ## Lambda delegates
 
@@ -115,7 +115,7 @@ multiplyOperation(10, 2);
 divideOperation(20, 4);
 ```
 
-[![](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-8.png)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-8.png)
+[![01](https://github.com/microsoft-dx/delegates-workshop/blob/master/Images/01-8.png?raw=true)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-8.png)
 
 ## Asynchronous delegates
 
@@ -158,7 +158,7 @@ public override void Run()
 }
 ```
 
-[![01](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-9.png)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-9.png)
+[![01](https://github.com/microsoft-dx/delegates-workshop/blob/master/Images/01-9.png?raw=true)](https://github.com/microsoft-dx/delegates-workshop/tree/master/Images/01-9.png)
 
 ## In conclusion
 
